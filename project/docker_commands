@@ -48,3 +48,4 @@ INFO:werkzeug:172.17.0.1 - - [26/Aug/2023 12:43:36] "GET /static/css/main.css HT
 INFO:app:08/26/2023, 12:43:38, Article "test post" retrieved!
 INFO:werkzeug:172.17.0.1 - - [26/Aug/2023 12:43:38] "GET /7 HTTP/1.1" 200 -
 INFO:werkzeug:172.17.0.1 - - [26/Aug/2023 12:43:38] "GET /static/css/main.css HTTP/1.1" 304 -
+
