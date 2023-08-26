@@ -1,0 +1,12 @@
+ERROR:app:08/26/2023, 14:55:15, No Article was found with the ID #20
+INFO:werkzeug:127.0.0.1 - - [26/Aug/2023 14:55:15] "[33mGET /20 HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [26/Aug/2023 14:55:15] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:app:08/26/2023, 14:55:24, Article "2020 CNCF Annual Report" retrieved!
+INFO:werkzeug:127.0.0.1 - - [26/Aug/2023 14:55:24] "GET /1 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Aug/2023 14:55:24] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/Aug/2023 14:55:29] "GET /create HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Aug/2023 14:55:29] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:app:08/26/2023, 14:55:36, Article "ABC" created!
+INFO:werkzeug:127.0.0.1 - - [26/Aug/2023 14:55:36] "[32mPOST /create HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [26/Aug/2023 14:55:36] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Aug/2023 14:55:36] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
